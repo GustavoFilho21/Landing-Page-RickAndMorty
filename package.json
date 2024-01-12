@@ -1,0 +1,15 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "sass": "sass src/main.scss build/main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.69.7"
+  }
+}
